@@ -1,1 +1,1 @@
-segni
+0-iam_betty 1-who_am_i 10-mirror_permissions 100-change_owner_and_group 101-symbolic_link_permissions 02-if_only 103-Star_Wars 11-directories_permissions 12-directory_permissions 13-change_group 2-groups 3-new_owner
